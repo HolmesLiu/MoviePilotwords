@@ -23,3 +23,8 @@ The Love Of Charge Cars => 女巡特警之蜂鸟突击队
 灌篮高手剧场版2 => {[tmdbid=338380;type=movie]}
 灌篮高手剧场版3 => {[tmdbid=338382;type=movie]}
 灌篮高手剧场版4 => {[tmdbid=338383;type=movie]}
+国粤双语
+不幸职业【鉴定士】 => {[tmdbid=270474;type=tv]}
+She.Jian.Shang.De.Chongqing => {[tmdbid=217144;type=tv]}
+Yi.Zhong.Tian.Pin.San.Guo => {[tmdbid=82559;type=tv]}
+Chu.Han => {[tmdbid=115155;type=tv]}
