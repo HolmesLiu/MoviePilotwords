@@ -17,7 +17,7 @@ MilkA.Running.River.Of.Civilization => 牛奶是部文明史
 The.Love.of.Charge.Cars => 女巡特警之蜂鸟突击队
 The Love Of Charge Cars => 女巡特警之蜂鸟突击队
 被驅逐出勇者隊伍的白魔導師，被S級冒險者撿到 => {[tmdbid=284771;type=tv]}
-地縛少年花子君 2 => {[tmdbid=95269;type=tv;s=2}
+地縛少年花子君 2 => {[tmdbid=95269;type=tv;s=2]}
 去唱卡拉 OK 吧！ => {[tmdbid=274546;type=tv]}
 灌篮高手剧场版1 => {[tmdbid=338379;type=movie]}
 灌篮高手剧场版2 => {[tmdbid=338380;type=movie]}
